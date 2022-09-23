@@ -1,5 +1,5 @@
 body {
-  background: url("../img/poetry.jpg") no-repeat fixed top right / 250px, radial-gradient(ellipse at center, rgba(205,216,0,1) 1%,rgba(3,0,221,1) 98%);
+  background: url("../img/poetry.jpg") no-repeat fixed top right / 150px, radial-gradient(ellipse at center, rgba(205,216,0,1) 1%,rgba(3,0,221,1) 98%);
  }
 
 .header-block {
